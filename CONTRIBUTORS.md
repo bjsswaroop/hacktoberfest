@@ -285,6 +285,11 @@ to explore life. Also, Python and Django Developer
 - Bio: IT Student at the University of Granada
 - GitHub: [Antonio Jesus Pelaez](https://github.com/ajpelaez)
 
+#### Name: [Bhaskara jaya sai swaroop](https://github.com/bjsswaroop)
+- Place: Anantapur, India
+- Bio: CSE student in Amrita school of engeneering
+- GitHub: [bjsswaroop](https://github.com/bjsswaroop)
+
 #### Name: [Anupam Dagar](https://github.com/Anupam-dagar)
 - Place: Allahabad, India
 - Bio: I am like a code currently in development.
