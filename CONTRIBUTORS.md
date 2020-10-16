@@ -2,6 +2,11 @@
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
+ 
+ #### Name: [B.swaroop](https://github.com/bjsswaroop)
+- Place: Anantapur
+- Bio: student
+- GitHub: [bjsswaroop](https://github.com/bjsswaroop)
 
 #### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
